@@ -1,5 +1,5 @@
 # Excel-Game
-Some of Excel Game written in VBA inspired by some online materials.\
+Some Excel Games written in VBA inspired by online materials.\
 1.2048 Game. Use to direction keys to control.\
 2.Minesweeping. Use doulble click to exvacuate the cell and right click to mark.\
 3.Snake game. Use direction keys to control the movement.\
